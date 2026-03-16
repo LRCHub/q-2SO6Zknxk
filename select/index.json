@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛されたいだけ",
+  "base_artist": "柿崎ユウタ",
+  "createdAt": "2026-03-16T11:11:27.795422Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛されたいだけ",
+      "artist": "柿崎ユウタ",
+      "has_synced": false,
+      "path": "select/pl_01_愛されたいだけ_柿崎ユウタ.txt"
+    }
+  ]
+}
